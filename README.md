@@ -7,9 +7,9 @@ DCWriterAnimation allow you to create a beautiful effect like this:
 ##How To Use It
 
 ##1)import in your project these framework
-QuartzCore
-CoreText
-DCWriterAnimation
+QuartzCore,
+CoreText,
+DCWriterAnimation,
 
 ##2)Setting  -all_load -ObjC Flag in other linker flags
 ![image-3](http://diegocaridei.altervista.org/blog/wp-content/uploads/2014/05/Schermata-2014-05-01-alle-15.56.05.png)
