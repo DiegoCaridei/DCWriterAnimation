@@ -1,6 +1,6 @@
 DCWriterAnimation
 =================
-DCWriterAnimation allow you to create a beautiful effect like this:
+DCWriterAnimation allow you to create a beautiful animation
 
 
 ## How To Use It
